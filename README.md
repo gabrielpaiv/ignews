@@ -63,5 +63,11 @@ $ yarn dev
 
 &nbsp;
 
+## 🔗 Link da aplicação rodando
+
+[Ignews by Gabriel Paiva](https://ignews-livid.vercel.app/)
+
+&nbsp;
+
 <p align="center">Feito com 🦆 por Gabriel Paiva</p>
 
